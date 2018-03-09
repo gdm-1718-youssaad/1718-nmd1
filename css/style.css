@@ -1,0 +1,34 @@
+body{
+background-image: url("../images/ko.jpg");
+
+}
+
+.tekstvak{
+    width:93%;
+    overflow:auto;
+    padding: 25px;
+    margin: 25px;
+    background-color: white;
+    color: black;
+    
+}
+
+.design{
+    width:93%;
+    overflow:auto;
+    padding: 25px;
+    margin: 25px;
+    background-color: white;
+    color: black;
+
+}
+
+img{
+max-width:15% ;
+max-height:15%;
+float: left;
+padding-right: 25px;
+
+}
+
+
